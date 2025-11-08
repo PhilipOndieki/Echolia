@@ -283,7 +283,7 @@ const Landing = () => {
               <span className="text-xl font-bold text-black">Echolia</span>
             </div>
             <p className="text-gray-600 text-sm">
-              © 2024 Echolia. Where Voices Resonate.
+              © 2025 Echolia. Where Voices Resonate.
             </p>
           </div>
         </div>
