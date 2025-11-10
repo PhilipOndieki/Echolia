@@ -186,7 +186,7 @@ CLIENT_URL=http://localhost:5173
 # Database Configuration
 MONGODB_URI=mongodb://localhost:27017/echolia
 # Or use MongoDB Atlas:
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/echolia
+# MONGODB_URI=mongodb+srv://username:<password>@cluster.mongodb.net
 
 # JWT Configuration (Generate secure random strings)
 JWT_SECRET=your_super_secret_jwt_key_min_32_characters
